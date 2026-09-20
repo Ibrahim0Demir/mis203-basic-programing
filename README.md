@@ -2,4 +2,4 @@
 Ibrahim DEMİR
 2404109056
 Management İnformation Systems 
-Basic programming 
+Basic programming
