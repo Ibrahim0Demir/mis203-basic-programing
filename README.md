@@ -1,5 +1,5 @@
 # mis203-basic-programming
-Ibrahim DEMİR  
+Ibrahim DEMIR  
 2404109056   
 Management İnformation Systems  
 MIS203 Basic programming  
